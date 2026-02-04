@@ -1,1 +1,1 @@
-# data_Vg_NNJ
+# Lectura de analisis de ventas de videojuegos en el rango xx para hacer estudio de mercadeo y propuesta de genero para la cxreacion del videojuego de empresa x
