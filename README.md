@@ -1,1 +1,3 @@
 # Lectura de analisis de ventas de videojuegos en el rango xx para hacer estudio de mercadeo y propuesta de genero para la cxreacion del videojuego de empresa x
+
+Este trabajo de la analizacion de la venta del mecado de videojuegos, y cuales han tenido impacto en la industria, para poder presentar una propuesta en la empresa xx, teniendo en cuenta como se ah desarrollado el mercado durante el transcurso del tiempo, el cual el archivo que se toma es (link), lo cual es importante para el impacto que este generara y presentara para nuestros compradores.
